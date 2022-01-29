@@ -1,4 +1,0 @@
-Whitelisted commands are commands that are registered to only a few guilds
-
-you can get access to those commands by asking Ascynx#0736 on discord via dms
-
